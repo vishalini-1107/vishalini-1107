@@ -1,16 +1,51 @@
-## Hi there 👋
+## Hi there 👋 I'm Vishalini B
+Aspiring Software Developer | Python | Java | DSA | AI/ML Enthusiast
 
-<!--
-**vishalini-1107/vishalini-1107** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science (Information Technology) student passionate about programming, emerging technologies, continuous learning, and solving real-world problems through technology.
 
-Here are some ideas to get you started:
+# About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 Computer Science (Information Technology) Student.
+
+💻 Exploring Python and Java programming.
+
+📚 Strengthening my Data Structures and Algorithms skills.
+
+🤖 Interested in Artificial Intelligence and Machine Learning.
+
+🔐 Exploring Cybersecurity and Cloud Computing.
+
+🚀 Building practical projects to enhance my technical knowledge and problem-solving abilities.
+
+# Technical Skills
+
+Languages: Python, Java
+
+AI/ML: NumPy, Pandas, Scikit-learn
+
+Web Technologies: HTML, CSS, JavaScript
+
+Tools: Git, GitHub, VS Code
+
+Interests: AI/ML, Cybersecurity, Cloud Computing
+
+# 🎯 Goals
+
+Strengthen programming and problem-solving skills.
+
+Develop impactful real-world projects.
+
+Gain practical experience in AI/ML.
+
+Explore cybersecurity technologies.
+
+Contribute to open-source projects.
+
+Continuously learn and grow as a developer.
+
+# Connect With Me
+
+LinkedIn:www.linkedin.com/in/vishalini-balamurugan
+
+⭐ Learning continuously, building consistently, and growing every day.
+
